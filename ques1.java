@@ -1,4 +1,4 @@
-//WAP Program which store value 65 in computer memories and print it.
+//WAP which store value 65 in computer memories and print it.
 public class ques1 
 {
     public static void main(String[] args) {

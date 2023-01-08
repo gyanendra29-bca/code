@@ -1,4 +1,4 @@
-//WAP `Program to take float input and print it.
+//WAP to take float input and print it.
 public class ques2 
 {
     public static void main(String[] args) 
