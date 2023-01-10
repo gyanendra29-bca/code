@@ -5,5 +5,5 @@ public class ques1
         int a=65;
         System.out.println("value of a is :"+a);
     }
-    
+     
 }
