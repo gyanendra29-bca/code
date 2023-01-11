@@ -7,5 +7,6 @@ public class ques2
         System.out.println("value of a is :"+a);
     
     }
+    
 }
 
