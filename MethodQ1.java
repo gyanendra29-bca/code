@@ -1,4 +1,4 @@
-/*Write a program with a method named getTotal that accepts two integers as an argument and return its sum. 
+ /*Write a program with a method named getTotal that accepts two integers as an argument and return its sum. 
 Call this method from main( ) and print the results. */
 import java.util.*;
 public class MethodQ1 
