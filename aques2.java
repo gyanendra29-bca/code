@@ -22,6 +22,6 @@ public class aques2
         if(count>0)
             System.out.println("Search Found");
         else
-            System.out.println("Search not Found");
+            System.out.println("Search not Found"); 
     }
 }
