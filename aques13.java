@@ -12,7 +12,7 @@ public class aques13
       //loop to intialize array element
       for(int i=0;i<n;i++)
       {
-          arr[i]=sc.nextInt();
+          arr[i]=sc.nextInt(); 
       }
       //loop to print the array element present on even position
       System.out.println("Array elements  present on even position are : ");
